@@ -22,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=rust,tauri,svelte,kotlin,androidstudio,ansible&perline=5" />
 
 <h3>⏳ Quero aprender (Na fila)</h3>
-<img src="https://skillicons.dev/icons?i=kubernetes,jenkins&perline=5" />
+<img src="https://skillicons.dev/icons?i=kubernetes,jenkins,go&perline=5" />
 </td>
 </tr>
 </table>
